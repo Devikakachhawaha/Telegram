@@ -1,8 +1,17 @@
-# React + Vite
+Telegram Clone
+Welcome to the Telegram Clone project! This project aims to replicate the popular Telegram messaging application using ReactJS and Material-UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies Used
+ ReactJS: Front-end library for building user interfaces.
+ Material-UI: React component library implementing Google's Material Design.
+ Vercel: Deployment platform used for hosting the application.
+ 
+Features
+Responsive Design: Ensures a seamless experience across various devices.
+Chat List: Displays a list of chats fetched from an API.
+Chat Messages: Displays messages for selected chats with scrolling behavior.
+Message Sending: Allows users to send messages to selected chats.
+Navigation: Includes navigation between the chat list and message components.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Demo
+Check out the live demo of the project here- https://telegram-sage.vercel.app/.
